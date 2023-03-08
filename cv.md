@@ -25,3 +25,6 @@ none
 
 ### Education
 none
+
+### English Level
+B2
