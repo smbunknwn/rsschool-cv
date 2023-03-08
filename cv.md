@@ -5,5 +5,5 @@
 * phone: ___+380974467309___
 * github: ___[smbunknwn](https://github.com/smbunknwn)___
 
-## About Me
+### About Me
 I am a frontend developer who loves learning and trying new things. I know HTML, CSS, and JavaScript well, and I can use them to make user interfaces that are both fun and easy to use.
